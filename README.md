@@ -19,3 +19,14 @@ class XBox extends Metabox{
 
 $box = new XBox("ps", "Page Sections", ["page_section"]);
 ```
+
+## Installation
+install with composer
+
+```json
+{
+	"require": {
+		"themexpert/wp-utility":"dev-master"
+	}
+}
+```
