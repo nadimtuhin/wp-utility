@@ -2,7 +2,7 @@
 
 ## Example
 
-``php
+```php
 require "vendor/autoload.php";
 
 use ThemeXpert\WpUtility\Metabox;
@@ -18,4 +18,4 @@ class XBox extends Metabox{
 }
 
 $box = new XBox("ps", "Page Sections", ["page_section"]);
-``
+```
