@@ -1,0 +1,16 @@
+{
+    "name": "themexpert/wp-utility",
+    "description": "wp utility tools",
+    "authors": [
+        {
+            "name": "Nadim Tuhin",
+            "email": "nadimtuhin@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ThemeXpert\\WpUtility\\": "src"
+        }
+    }
+}
